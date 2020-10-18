@@ -1,0 +1,15 @@
+{
+    "name": "@kylemit/cli-ls",
+    "version": "1.0.0",
+    "description": "A simple version of the ls command to replace window's dir command",
+    "bin": {
+        "ls": "./ls.js"
+    },
+    "keywords": ["cli", "npm"],
+    "author": "KyleMit",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KyleMit/cli-ls.git"
+    }
+}
